@@ -4,9 +4,8 @@ import (
 	"strings"
 	"time"
 )
-/*
-将time类型转成其他各种日期类型
-*/
+
+// 日期字符串类型
 type DateStyle string
 
 const (
